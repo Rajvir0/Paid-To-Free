@@ -8,7 +8,7 @@
 
 ## Installation :
 
-* `git clone https://github.com/Rajvir0/Paid-To-Free`
+* `git clone https://github.com/Rajvir0/Paid-To-Free.git`
 * `cd Paid-To-Free`
 
 #### > Run : `python 2009-2011.py`
